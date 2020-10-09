@@ -40,7 +40,7 @@
     "pa11y-reporter-csv": "^2.0.0",
     "pa11y-reporter-json": "^2.0.0",
     "pa11y-runner-axe": "^2.0.0",
-    "pa11y-runner-htmlcs": "^2.0.0",
+    "pa11y-runner-htmlcs": "git+https://github.com/TarunK151/pa11y-runner-htmlcs.git",
     "puppeteer": "^2.1.1",
     "semver": "^5.7.1"
   },
